@@ -1,0 +1,2 @@
+# Handle high dpi for gtk3 (i.e. libreoffice)
+export GDK_SCALE=2
