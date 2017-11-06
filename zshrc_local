@@ -1,0 +1,4 @@
+# handle high dpi for gtk3 (i.e. libreoffice)
+export GDK_SCALE=2
+# handle high dpi for google-chrome
+alias google-chrome-stable='google-chrome-stable --force-device-scale-factor=2' 
